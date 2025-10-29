@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"radius-mcp": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"tsx",
+				"/Users/willsmith/dev/radius-mcp/server.ts"
+			]
+		}
+	},
+	"inputs": []
+}
