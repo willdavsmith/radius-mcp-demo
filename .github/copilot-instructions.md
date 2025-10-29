@@ -1,6 +1,4 @@
-# AGENTS.md
-
-## Dos/Don't's
+# copilot-instructions.md
 
 - Always ask which Radius environment to deploy to.
 - Only use the Radius MCP server for Radius operations. If the operation that you want to do is not exposed via the MCP server's tools, tell the user which CLI commands to run. Never run the `rad` CLI yourself.
