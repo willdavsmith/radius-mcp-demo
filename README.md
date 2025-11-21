@@ -32,4 +32,4 @@ sh ./scripts/teardown-cluster.sh
 ```
 
 ## MCP Servers
-This repository uses the Radius MCP server (https://www.npmjs.com/package/@willdavsmith/radius-mcp), which is defined in `.vscode/mcp.json`. Make sure the MCP server is running.
+This repository uses the Radius MCP server (https://www.npmjs.com/package/@willdavsmith/radius-mcp). Make sure the MCP server is running.
